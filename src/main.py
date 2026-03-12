@@ -23,10 +23,10 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from pyrogram import Client, enums, filters, types
 
 from config import (
-    APP_HASH,
-    APP_ID,
+    APP_HASH,92db71e8f0b39dac859b7ee1c41edecd
+    APP_ID,39498514
     AUTHORIZED_USER,
-    BOT_TOKEN,
+    BOT_TOKEN,8675764298:AAGSwaz1_NjbVrAXOMspZe1yodLIlmeytQg
     ENABLE_ARIA2,
     ENABLE_FFMPEG,
     M3U8_SUPPORT,
